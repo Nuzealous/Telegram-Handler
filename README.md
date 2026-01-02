@@ -10,13 +10,13 @@ A userbot-powered program made using Telethon, allowing users to manage across m
 5. <edit>{Message_to_be_replaced} -- Edits the last message sent by the user across all selected groups to {message_to_be_replaced}
 6. <delete> -- Deletes the last message sent by the user across all selected groups.
 
-Examples:
+```Examples:
 <copy1>10
 <send3>Welcome!
 <reply>See you soon!
 <paste2>
 <edit>That's *great.
-<delete>
+<delete>```
 
 ## Installation
 Running `main.py` is all that is needed to launch the program.
