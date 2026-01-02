@@ -3,7 +3,7 @@ A userbot-powered program made using Telethon, allowing users to manage across m
 
 ## Command Syntax/Format
 
-1. <copy{group_number}{number_of_messages} -- Copies the last {number_of_messages} messages from the group labelled {group_number}
+1. <copy{group_number}>{number_of_messages} -- Copies the last {number_of_messages} messages from the group labelled {group_number}
 2. <send{group_number}>{Message to be sent} -- Sends {message_to_be_sent} to the group labelled {group_number}
 3. <reply>{Message_to_be_sent} -- Replies to the last message sent across all selected groups with the {message_to_be_sent}
 4. <paste{group_number}> -- Copies the last message sent in your Telegram's Saved Messages to the group labelled {group_number}
