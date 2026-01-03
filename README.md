@@ -8,7 +8,7 @@ It is recommended to save main.py in a dedicated folder before running it.
 Be sure to read the README.md and LICENSE files for detailed instructions and licensing information.
 
 ## Let's get in touch
-Please do report any errors, bugs, or suggestions here:
+Please do report any errors, bugs, or suggestions here, it helps tons: https://github.com/Nuzealous/Telegram-Handler/issues
 Join my Telegram channel for updates, polls, and more coding fun: https://t.me/NutTub
 Looking forward to seeing you there!
 
@@ -21,7 +21,7 @@ Looking forward to seeing you there!
 5. `<edit>{Message_to_be_replaced}` -- Edits the last message sent by the user across all selected groups to {message_to_be_replaced}
 6. `<delete>` -- Deletes the last message sent by the user across all groups. 
 
-Examples:
+## Examples
 `<copy1>10'
 `<send3>Welcome!`
 `<reply>See you soon!`
@@ -29,4 +29,4 @@ Examples:
 `<edit>That's *great.`
 `<delete>`
 
-Until then, happy coding! 
+## Until then, happy coding! 
