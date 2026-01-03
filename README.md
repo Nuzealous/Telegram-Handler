@@ -10,7 +10,7 @@ Be sure to read the README.md and LICENSE files for detailed instructions and li
 ## Let's get in touch
 Please do report any errors, bugs, or suggestions here, it helps tons: https://github.com/Nuzealous/Telegram-Handler/issues
 Join my Telegram channel for updates, polls, and more coding fun: https://t.me/NutTub
-Looking forward to seeing you there!
+Looking forward to seeing you there! Until then, happy coding! 
 
 ## Command Syntax/Format
 
@@ -28,5 +28,3 @@ Looking forward to seeing you there!
 <paste2>
 <edit>That's *great.
 <delete>```
-
-## Until then, happy coding! 
