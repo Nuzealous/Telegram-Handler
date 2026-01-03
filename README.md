@@ -22,9 +22,11 @@ Looking forward to seeing you there! Until then, happy coding!
 6. `<delete>` -- Deletes the last message sent by the user across all groups. 
 
 ## Examples
-```<copy1>10
+```
+<copy1>10
 <send3>Welcome!
 <reply>See you soon!
 <paste2>
 <edit>That's *great.
-<delete>```
+<delete>
+```
